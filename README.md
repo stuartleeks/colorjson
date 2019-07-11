@@ -1,5 +1,8 @@
 ColorJSON: The Fast Color JSON Marshaller for Go
 ================================================
+
+This is a fork of [https://github.com/TylerBrock/colorjson] that handles the `Number` type from `encoding/json` as per [this issue](https://github.com/TylerBrock/colorjson/issues/4)
+
 ![ColorJSON Output](https://i.imgur.com/pLtCXhb.png)
 What is this?
 -------------
